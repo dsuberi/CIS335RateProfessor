@@ -1,0 +1,4 @@
+- front end bootstrap UI for users to select their course from department dropdown and then class name dropdown with ability to filter by professor
+- page allowing students to rate the class and the teacher.
+- back end SQL database containing lists of classes and reviews.
+- ratemyclass.messiah.edu hosted?
